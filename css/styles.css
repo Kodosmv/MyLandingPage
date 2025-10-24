@@ -59,7 +59,7 @@ nav a:hover { color: var(--acento); }
   color: var(--texto);
 }
 .text p { font-size: 1rem; margin-bottom: 20px; }
-.btn {
+.boton {
   display: inline-block;
   background-color: var(--acento);
   color: #fff;
@@ -70,8 +70,8 @@ nav a:hover { color: var(--acento); }
   font-weight: bold;
   transition: background-color 0.3s ease;
 }
-.btn:hover { background-color: #a87c54; }
-.placeholder {
+.boton:hover { background-color: #a87c54; }
+.general {
   background-color: #e8dccb;
   color: #6b5b4b;
   font-style: italic;
